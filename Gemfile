@@ -46,6 +46,8 @@ group :development, :test do
   gem 'shoulda-matchers'
   gem 'orderly'
   gem 'webmock'
+  gem 'pry'
+  gem 'active_designer'
 end
 
 group :development do
